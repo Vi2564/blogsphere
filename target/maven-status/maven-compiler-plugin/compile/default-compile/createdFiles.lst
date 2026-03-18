@@ -1,0 +1,4 @@
+com\example\BlogPlatform\controller\FollowController.class
+com\example\BlogPlatform\model\Follow.class
+com\example\BlogPlatform\repository\FollowRepository.class
+com\example\BlogPlatform\service\FollowService.class

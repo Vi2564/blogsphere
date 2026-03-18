@@ -1,0 +1,17 @@
+C:\Project.final\src\main\java\com\example\BlogPlatform\model\Follow.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\service\FollowService.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\controller\AuthController.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\BlogPlatformApplication.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\repository\UserRepository.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\model\Post.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\model\Comment.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\service\CommentService.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\service\UserService.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\controller\PostController.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\controller\FollowController.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\model\User.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\controller\CommentController.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\service\PostService.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\repository\PostRepository.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\repository\CommentRepository.java
+C:\Project.final\src\main\java\com\example\BlogPlatform\repository\FollowRepository.java
